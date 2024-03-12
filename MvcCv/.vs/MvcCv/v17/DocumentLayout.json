@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|c:\\users\\gizem\\source\\repos\\mvccv\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|solutionrelative:views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|c:\\users\\gizem\\source\\repos\\mvccv\\views\\sosyalmedya\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|solutionrelative:views\\sosyalmedya\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|C:\\Users\\Gizem\\source\\repos\\MvcCv\\views\\yetenek\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|solutionrelative:views\\yetenek\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|C:\\Users\\Gizem\\source\\repos\\MvcCv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|C:\\Users\\Gizem\\source\\repos\\MvcCv\\views\\default\\sosyalmedya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5311F6E6-141D-4478-A5B6-1075A170B4FB}|MvcCv.csproj|solutionrelative:views\\default\\sosyalmedya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\iletisim\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\iletisim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\iletisim\\Index.cshtml",
+              "RelativeToolTip": "Views\\iletisim\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T14:40:07.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\Yetenek\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Yetenek\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\Yetenek\\Index.cshtml",
+              "RelativeToolTip": "Views\\Yetenek\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T19:48:10.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\SosyalMedya\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SosyalMedya\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\SosyalMedya\\Index.cshtml",
+              "RelativeToolTip": "Views\\SosyalMedya\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T19:43:12.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SosyalMedya.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\Default\\SosyalMedya.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\SosyalMedya.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\Default\\SosyalMedya.cshtml",
+              "RelativeToolTip": "Views\\Default\\SosyalMedya.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T19:32:05.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem\\source\\repos\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAE0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-24T22:53:48.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
